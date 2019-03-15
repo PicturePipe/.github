@@ -3,6 +3,8 @@ name: Bug Report
 about: Create a bug report
 labels: bug
 ---
+<!-- How to create task lists with clickable checkboxes: -->
+<!-- https://help.github.com/en/articles/about-task-lists -->
 # Bug Report
 
 **What is the current behavior?**

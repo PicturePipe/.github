@@ -3,6 +3,8 @@ name: Feature Request
 about: Suggest an idea
 labels: feature
 ---
+<!-- How to create task lists with clickable checkboxes: -->
+<!-- https://help.github.com/en/articles/about-task-lists -->
 # Feature Request
 
 **What is the expected behavior?**

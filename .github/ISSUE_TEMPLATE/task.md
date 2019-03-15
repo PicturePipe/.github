@@ -3,6 +3,8 @@ name: Task
 about: Create a task
 labels: task
 ---
+<!-- How to create task lists with clickable checkboxes: -->
+<!-- https://help.github.com/en/articles/about-task-lists -->
 # Task
 
 **What task has to be performed?**
