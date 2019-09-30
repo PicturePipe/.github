@@ -7,13 +7,13 @@ labels: task
 <!-- https://help.github.com/en/articles/about-task-lists -->
 # Task
 
-**What task has to be performed?**
+### What task has to be performed?
 <!-- A clear and concise description of the task to be performed. -->
 
 
-**Expected result**
+### Expected result
 <!-- A clear and concise description of what the expected result is. -->
 
 
-**Additional context**
+### Additional context
 <!-- Please add any other context or screenshots about the task here. -->
