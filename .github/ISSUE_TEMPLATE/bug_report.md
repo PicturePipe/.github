@@ -28,9 +28,10 @@ labels: bug
 <!-- If there is a Sentry issue link to it instead providing additional information manually. -->
 
 -   Device:
--   Operating System:
--   Browser:
--   Version:
+<!-- Find out your operating system at https://what-is.net/my-operating-system -->
+-   Operating System (including version):
+<!-- Find out your browser at https://what-is.net/my-browser -->
+-   Browser (including version):
 
 ### Additional Context
 <!-- Please add any other context about the problem here. -->
