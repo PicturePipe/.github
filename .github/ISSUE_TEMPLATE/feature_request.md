@@ -7,13 +7,13 @@ labels: feature
 <!-- https://help.github.com/en/articles/about-task-lists -->
 # Feature Request
 
-### What is the expected behavior?
+### What Is the Expected Behavior?
 <!-- A clear and concise description of the feature. -->
 
 
-### What is motivation or use case for adding/changing the behavior?
+### What Is Motivation or Use Case for Adding/changing the Behavior?
 <!-- A clear and concise description of the reasons to implement this. -->
 
 
-### Additional context
+### Additional Context
 <!-- Please add any other context or screenshots about the feature request here. -->
