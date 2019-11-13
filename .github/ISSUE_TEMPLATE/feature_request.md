@@ -11,7 +11,7 @@ labels: feature
 <!-- A clear and concise description of the feature. -->
 
 
-### What Is Motivation or Use Case for Adding/changing the Behavior?
+### What Is Motivation or Use Case for Adding/Changing/Removing the Behavior?
 <!-- A clear and concise description of the reasons to implement this. -->
 
 
